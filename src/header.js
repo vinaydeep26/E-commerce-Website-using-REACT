@@ -24,9 +24,9 @@ function Header() {
         <span className="nav_itemLineone">your</span>
           <span className="nva_itemLinetwo">shop</span>
         </div>
-        <div className="nav_item">
-        <ShoppingCartIcon className='itemBasket'/>
-          <span className="nva_itemLinetwo nav__basketCount"></span>0
+        <div className="nav_itemBasket">
+        <ShoppingCartIcon />
+          <span className="nva_itemLinetwo nav__basketCount">0</span>
         </div>
       </div>
         </div>
