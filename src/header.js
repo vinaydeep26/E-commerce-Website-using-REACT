@@ -21,11 +21,13 @@ function Header() {
       <input type="text" className='header_searchinput'/>
       <SearchIcon className='header_searchicon'/>
       </div>
-      <div className="header_nav">
+      <div className="header_nav"> 
+        <Link to="/login" style={{textDecoration: "none" }}>
         <div className="nav_item">
           <span className="nav_itemLineone">hi guest</span>
           <span className="nva_itemLinetwo">sign in</span>
         </div>
+        </Link>
         <div className="nav_item">
         <span className="nav_itemLineone">your</span>
           <span className="nva_itemLinetwo">shop</span>

@@ -12,17 +12,17 @@ function Home () {
     <div className="home__row">
         <Product 
         id="123"
-        title= "Chelsea Boots from amazon"
+        title= "Hugo Boss BOSS Bottled Eau de Parfum"
         price = {12}
         rating= {2}
-        image="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
+        image="https://m.media-amazon.com/images/I/71qzRk5riCL._SL1500_.jpg"
         />
         <Product 
         id="1234"
-        title= "Chelsea Boots from Flipkart"
+        title= "Dolce & Gabbana Dolce & Gabbana By Dolce & Gabbana for Men 6.7 Oz Eau De Toilette Spray, 6.7 Oz"
         price = {12}
         rating= {5}
-        image="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1099&q=80"
+        image="https://m.media-amazon.com/images/I/5133wNn5sCL._SL1081_.jpg"
         />
     </div>
     <div className="home__row">
